@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+history.json
+profile.json
+menu_output.csv
+*_old.py
+app_v*.py
